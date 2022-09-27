@@ -1,5 +1,5 @@
 # ASP.NET-special-tags
-![Link](https://stackoverflow.com/questions/649428/asp-net-special-tags)
+[Link](https://stackoverflow.com/questions/649428/asp-net-special-tags)
 
 
 The official name is "server-side scripting delimiters" or "ASP.NET inline expressions". Visual Studio 2008 syntax highlighting settings dialog calls these "HTML Server-Side Script". Microsoft guys call them "code nuggets" in their blogs.
